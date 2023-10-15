@@ -1,0 +1,15 @@
+/Users/oleg/Desktop/eszhednevnik/bin/Debug/net7.0/eszhednevnik
+/Users/oleg/Desktop/eszhednevnik/bin/Debug/net7.0/eszhednevnik.deps.json
+/Users/oleg/Desktop/eszhednevnik/bin/Debug/net7.0/eszhednevnik.runtimeconfig.json
+/Users/oleg/Desktop/eszhednevnik/bin/Debug/net7.0/eszhednevnik.dll
+/Users/oleg/Desktop/eszhednevnik/bin/Debug/net7.0/eszhednevnik.pdb
+/Users/oleg/Desktop/eszhednevnik/obj/Debug/net7.0/eszhednevnik.csproj.AssemblyReference.cache
+/Users/oleg/Desktop/eszhednevnik/obj/Debug/net7.0/eszhednevnik.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oleg/Desktop/eszhednevnik/obj/Debug/net7.0/eszhednevnik.AssemblyInfoInputs.cache
+/Users/oleg/Desktop/eszhednevnik/obj/Debug/net7.0/eszhednevnik.AssemblyInfo.cs
+/Users/oleg/Desktop/eszhednevnik/obj/Debug/net7.0/eszhednevnik.csproj.CoreCompileInputs.cache
+/Users/oleg/Desktop/eszhednevnik/obj/Debug/net7.0/eszhednevnik.dll
+/Users/oleg/Desktop/eszhednevnik/obj/Debug/net7.0/refint/eszhednevnik.dll
+/Users/oleg/Desktop/eszhednevnik/obj/Debug/net7.0/eszhednevnik.pdb
+/Users/oleg/Desktop/eszhednevnik/obj/Debug/net7.0/eszhednevnik.genruntimeconfig.cache
+/Users/oleg/Desktop/eszhednevnik/obj/Debug/net7.0/ref/eszhednevnik.dll
